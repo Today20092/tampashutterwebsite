@@ -3,4 +3,4 @@ description: Menu photos for Outside BBQ <div class="text-center">{{< paige/imag
 title: "OutsideBBQ"
 ---
 
-{{< paige/gallery images="*.jpg" type="grid" />}}
+{{< paige/gallery images="*.jpg" type="grid"  />}}
