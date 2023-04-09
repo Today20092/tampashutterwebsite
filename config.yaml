@@ -10,10 +10,10 @@ languages:
         name: "Home"
         url: "/"
         weight: 10
-      - identifier: "content"
-        name: "Content"
-        url: "/content/"
-        weight: 20
+      #- identifier: "content"
+      #  name: "Content"
+      #  url: "/content/"
+      #  weight: 20
       - identifier: "aboutme"
         name: "About Me"
         url: "/aboutme/"
@@ -21,6 +21,10 @@ languages:
       - identifier: "gallery"
         name: "Gallery"
         url: "/gallery/"
+        weight: 40
+      - identifier: "contactme"
+        name: "Contact Me @ Telegram"
+        url: "https://t.me/AyoubAb1"
         weight: 40
       #- identifier: "layouts"
       #  name: "Layouts"
