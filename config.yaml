@@ -1,5 +1,5 @@
 baseurl: "https://today20092.github.io/tampashutterwebsite/"
-copyright: "© Will Faught"
+copyright: "© Ayoub Abedrabbo"
 enablerobotstxt: true
 languagecode: "en-us"
 languages:
@@ -78,3 +78,4 @@ taxonomies:
 theme: "paige"
 timezone: "America/New_York"
 titlecasestyle: "Go"
+paige:
