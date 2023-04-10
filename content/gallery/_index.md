@@ -1,4 +1,4 @@
 ---
-description: Click on one of the following to see my work for that business.
+description: Click on one of the following albums to see that collection.
 title: "A collection of my work."
 ---
