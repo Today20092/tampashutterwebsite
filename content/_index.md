@@ -28,6 +28,10 @@ title: "Tampa Shutter"
 My name is Ayoub Abedrabbo. I am the creator of Tampa Shutter & I welcome you to our journey together. My goals are to represent you in the best possible image possible and to bring the deserved attention to your brand; I do this by understanding your values & profession.
 {{< /paige/hero >}}
 
+<center> <h2> <strong> Booking </strong> </h2> 
+
+If you're looking to book an appointment with me the best place to contact me will be on <a href="https://t.me/AyoubAb1">Telegram</a>, you can also message me on my <a href="https://www.instagram.com/tampashutter/">Instagram!</a>
+
 <div class="column-gap-3 d-flex display-6 justify-content-center mb-3">
     {{< paige/icon class="bi bi-envelope-fill" name="E-mail" url="mailto:Ayoub.Abedrabbo@gmail.com" >}}
     {{< paige/icon class="bi bi-instagram" name="Instagram" url="https://instagram.com/tampashutter?igshid=ZDdkNTZiNTM=" >}}
