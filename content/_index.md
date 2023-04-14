@@ -15,7 +15,6 @@ paige:
         font-size: 5rem;
     }
 title: "Tampa Shutter"
-
 ---
 
 {{< paige/hero
@@ -28,7 +27,16 @@ title: "Tampa Shutter"
 My name is Ayoub Abedrabbo. I am the creator of Tampa Shutter & I welcome you to our journey together. My goals are to represent you in the best possible image possible and to bring the deserved attention to your brand; I do this by understanding your values & profession.
 {{< /paige/hero >}}
 
-<center> <h2> <strong> Booking </strong> </h2> 
+<center> <h2> <strong> Services </strong> </h2>
+
+ <ul>
+  <li>Photographs for any occasion</li>
+  <li>Video filiming with post production</li>
+  <dd>(Color grading & editing)</dd>
+  <li>Live Streaming</li>
+</ul>
+
+<center> <h2> <strong> Booking </strong> </h2>
 
 If you're looking to book an appointment with me the best place to contact me will be on <a href="https://t.me/AyoubAb1">Telegram</a>, you can also message me on my <a href="https://www.instagram.com/tampashutter/">Instagram!</a>
 
@@ -38,4 +46,3 @@ If you're looking to book an appointment with me the best place to contact me wi
     {{< paige/icon class="bi bi-telegram" name="Telegram" url="https://t.me/AyoubAb1" >}}
     {{< paige/icon class="bi bi-tree" name="Linktree" url="https://linktr.ee/AyoubTheGreat" >}}
 </div>
-

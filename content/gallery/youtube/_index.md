@@ -5,13 +5,13 @@ title: "Music Videos"
 
 ## Kay La Dawn - Still Me
 
-{{< paige/youtube controls=true autoplay=false video="g2V-ygUPYG8" height="30rem" width="55rem"  >}}
+{{< paige/youtube controls=true autoplay=false video="g2V-ygUPYG8" height="auto" width="auto"  >}}
 
 <a href="https://www.youtube.com/@pieshelpfuloven2864">Click me to go to my youtube channel</a>
 
 ## La Remy - All Barz
 
-{{< paige/youtube controls=true autoplay=false video="YBgHTt4e9-M" height="30rem" width="55rem"  >}}
+{{< paige/youtube controls=true autoplay=false video="YBgHTt4e9-M" height="auto" width="auto"  >}}
 
 <a href="https://www.youtube.com/@pieshelpfuloven2864">Click me to go to my youtube channel</a>
 
