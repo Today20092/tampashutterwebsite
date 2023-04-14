@@ -27,22 +27,33 @@ title: "Tampa Shutter"
 My name is Ayoub Abedrabbo. I am the creator of Tampa Shutter & I welcome you to our journey together. My goals are to represent you in the best possible image possible and to bring the deserved attention to your brand; I do this by understanding your values & profession.
 {{< /paige/hero >}}
 
-<center> <h2> <strong> Services </strong> </h2>
+<style>
+  h2, ul {
+    text-align: center;
+  }
+</style>
+
+<h2> <strong> <a href="/services/">Services</a> </strong> </h2>
 
  <ul>
   <li>Photographs for any occasion</li>
-  <li>Video filiming with post production</li>
+  <li>Video filming with post production</li>
   <dd>(Color grading & editing)</dd>
   <li>Live Streaming</li>
+  <li>Music Videos</li>
 </ul>
 
-<center> <h2> <strong> Booking </strong> </h2>
+<div style="text-align: center;">
 
-If you're looking to book an appointment with me the best place to contact me will be on <a href="https://t.me/AyoubAb1">Telegram</a>, you can also message me on my <a href="https://www.instagram.com/tampashutter/">Instagram!</a>
+<h2> <strong> Booking </strong> </h2>
+
+If you're looking to book an appointment with me the best place to contact me will be on <a href="https://t.me/AyoubAb1">Telegram</a>, you can also message me on my <a href="https://www.instagram.com/tampashutter/">Instagram!</a> 
+
+</div>
 
 <div class="column-gap-3 d-flex display-6 justify-content-center mb-3">
     {{< paige/icon class="bi bi-envelope-fill" name="E-mail" url="mailto:Ayoub.Abedrabbo@gmail.com" >}}
-    {{< paige/icon class="bi bi-instagram" name="Instagram" url="https://instagram.com/tampashutter?igshid=ZDdkNTZiNTM=" >}}
+    {{< paige/icon class="bi bi-instagram" name="Instagram" url="https://instagram.com/tampashutter" >}}
     {{< paige/icon class="bi bi-telegram" name="Telegram" url="https://t.me/AyoubAb1" >}}
     {{< paige/icon class="bi bi-tree" name="Linktree" url="https://linktr.ee/AyoubTheGreat" >}}
 </div>
