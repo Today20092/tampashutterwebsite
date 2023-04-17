@@ -16,7 +16,7 @@ paige:
     }
 ---
 
-<center style="float:left;margin-right:1rem">
+<center style="float:center;margin-right:1rem">
 {{< paige/image
     alt="A photo of Ayoub Abedrabbo"
     breakpoints=false
