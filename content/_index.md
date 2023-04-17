@@ -1,5 +1,5 @@
 ---
-description: "All it takes is a click of a shutter"
+description: "Photography, Videographer, Livestreaming service based in Tampa, Florida."
 paige:
   style: |
     #paige-date,
@@ -16,6 +16,11 @@ paige:
     }
 title: "Tampa Shutter"
 ---
+<head>
+
+<meta name="Homepage" content="Ayoub Abedrabbo's photography, videography, music video, livestreaming, and video editing services based in Tampa, Florida.
+
+</head>
 
 {{< paige/hero
     alt="Landscape"
