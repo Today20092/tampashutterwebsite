@@ -3,6 +3,9 @@ description: Photos of Coach Chang's football team. <div class="text-center">{{<
 title: "Coach Chang's Football Team"
 
 ---
+<!-- <button onclick="topFunction()" style="position: fixed; bottom: 20px; right: 30px; font-size: 20px; border: none; outline: none; background-color: #555; color: white; cursor: pointer; padding: 15px; border-radius: 10px;" id="myBtn" title="Go to top">&#8593;</button> -->
+
+{{< paige/scrolltotop >}}
 
 {{< paige/gallery
      images="*.jpg" 
