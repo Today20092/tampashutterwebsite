@@ -3,6 +3,7 @@ description: Photos taken for Jett Jacobs at a body building competition. 1st in
 title: "Jett Jacobs Body Building Debut"
 
 ---
+{{< paige/scrolltotop >}}
 
 {{< paige/gallery
      images="*.jpg" 
