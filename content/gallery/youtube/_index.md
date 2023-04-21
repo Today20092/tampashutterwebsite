@@ -1,5 +1,5 @@
 ---
-description: Music videos I have filmed & edited 
+description: Music videos I have filmed & edited.
 title: "Music Videos"
 ---
 {{< paige/scrolltotop >}}

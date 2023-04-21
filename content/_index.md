@@ -38,7 +38,11 @@ My name is Ayoub Abedrabbo. I am the creator of Tampa Shutter & I welcome you to
   }
 </style>
 
-<h2> <strong> <a href="/services/">Services</a> </strong> </h2>
+<div style="text-align: center;"> 
+<h2> <strong> <a href="/services/">Services</a> </strong> 
+</div>
+
+</h2>
 
  <ul>
   <li>Photographs for any occasion</li>
