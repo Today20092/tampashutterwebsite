@@ -61,7 +61,7 @@ Come check out my previous work on my gallery! There you will find collections.
 
 <h2> <strong> Booking </strong> </h2>
 
-If you're looking to book an appointment with me the best place to contact me will be on <a href="https://t.me/AyoubAb1">Telegram</a>, you can message me on my <a href="https://www.instagram.com/tampashutter/">Instagram</a> or <a href="/static/vcard.vcf" download>download</a> my contact info & text/call me. 
+If you're looking to book an appointment with me the best place to contact me will be on <a href="https://t.me/AyoubAb1">Telegram</a>, you can message me on my <a href="https://www.instagram.com/tampashutter/">Instagram</a> or <a href="/static/vcard.vcf" download="AyoubContactCard.vcf">download</a> my contact info & text/call me. 
 
 </div>
 
@@ -70,4 +70,6 @@ If you're looking to book an appointment with me the best place to contact me wi
     {{< paige/icon class="bi bi-instagram" name="Instagram" url="https://instagram.com/tampashutter" >}}
     {{< paige/icon class="bi bi-telegram" name="Telegram" url="https://t.me/AyoubAb1" >}}
     {{< paige/icon class="bi bi-tree" name="Linktree" url="https://linktr.ee/AyoubTheGreat" >}}
+    <!-- {{< paige/icon class="bi bi-person-lines-fill" name="ContactCard" url="/static/vcard.vcf" >}} -->
 </div>
+
