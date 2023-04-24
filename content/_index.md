@@ -52,11 +52,16 @@ My name is Ayoub Abedrabbo. I am the creator of Tampa Shutter & I welcome you to
   <li>Music Videos</li>
 </ul>
 
+<div style="text-align: center;"> 
+<h2><strong><a href="/gallery/">My Gallery</a></strong></h2>
+Come check out my previous work on my gallery! There you will find collections.
+</div>
+
 <div style="text-align: center;">
 
 <h2> <strong> Booking </strong> </h2>
 
-If you're looking to book an appointment with me the best place to contact me will be on <a href="https://t.me/AyoubAb1">Telegram</a>, you can also message me on my <a href="https://www.instagram.com/tampashutter/">Instagram!</a> 
+If you're looking to book an appointment with me the best place to contact me will be on <a href="https://t.me/AyoubAb1">Telegram</a>, you can message me on my <a href="https://www.instagram.com/tampashutter/">Instagram</a> or <a href="/static/vcard.vcf" download>download</a> my contact info & text/call me. 
 
 </div>
 

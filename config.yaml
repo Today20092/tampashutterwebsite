@@ -26,10 +26,10 @@ languages:
         name: "Contact Me @ Telegram"
         url: "https://t.me/AyoubAb1"
         weight: 40
-      #- identifier: "layouts"
-      #  name: "Layouts"
-      #  url: "/layouts/"
-      #  weight: 30
+      - identifier: "Services"
+        name: "Services"
+        url: "/services/"
+        weight: 50
       #- identifier: "shortcodes"
       #  name: "Shortcodes"
       #  url: "/shortcodes/"
