@@ -70,6 +70,6 @@ If you're looking to book an appointment with me the best place to contact me wi
     {{< paige/icon class="bi bi-instagram" name="Instagram" url="https://instagram.com/tampashutter" >}}
     {{< paige/icon class="bi bi-telegram" name="Telegram" url="https://t.me/AyoubAb1" >}}
     {{< paige/icon class="bi bi-tree" name="Linktree" url="https://linktr.ee/AyoubTheGreat" >}}
-    <!-- {{< paige/icon class="bi bi-person-lines-fill" name="ContactCard" url="/static/vcard.vcf" >}} -->
+    {{< paige/icon class="bi bi-person-lines-fill" name="ContactCard" url="vcard.vcf" >}}
 </div>
 
