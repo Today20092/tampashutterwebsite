@@ -50,6 +50,7 @@ My name is Ayoub Abedrabbo. I am the creator of Tampa Shutter & I welcome you to
   <dd>(Color grading & editing)</dd>
   <li>Live Streaming</li>
   <li>Music Videos</li>
+  <li>Drone Certification (FAA Part 107</li>
 </ul>
 
 <div style="text-align: center;"> 
