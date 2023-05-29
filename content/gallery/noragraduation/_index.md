@@ -1,5 +1,5 @@
 ---
-description: Congruations to Nora for graduating from Moorehouse School of Medicine.
+description: Congruations to Nora for graduating from Morehouse School of Medicine.
 title: "Nora's Graduation!"
 date: 2023-05-28T22:01:00.000Z
 ---
