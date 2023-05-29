@@ -15,5 +15,5 @@ If you would like to download the photo, please click on it then hold on the pho
 {{< paige/gallery
      images="*.jpg"
      type="grid"
-     process="lanczos picture r90 webp"
+     process="lanczos photo webp"
      />}}
