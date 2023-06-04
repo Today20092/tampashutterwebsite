@@ -1,5 +1,5 @@
 ---
-description: "Photography, Videographer, Livestreaming service based in Tampa, Florida."
+description: 'Photography, Videographer, Livestreaming service based in Tampa, Florida.'
 paige:
   style: |
     #paige-date,
@@ -14,15 +14,16 @@ paige:
     #paige-title {
         font-size: 5rem;
     }
-title: "Tampa Shutter"
+title: 'Tampa Shutter'
 ---
+
 <head>
 
 <meta name="Homepage" content="Ayoub Abedrabbo's photography, videography, music video, livestreaming, and video editing services based in Tampa, Florida.
 
 </head>
 
-{{< paige/hero
+{{< paige/image
     alt="Landscape"
     format="webp"
     header="Photographic & Video Expert"
@@ -30,7 +31,6 @@ title: "Tampa Shutter"
     imageclass="rounded-4 shadow img-fluid"
     stretch=cover >}}
 My name is Ayoub Abedrabbo. I am the creator of Tampa Shutter & I welcome you to our journey together. My goals are to represent you in the best possible image possible and to bring the deserved attention to your brand; I do this by understanding your values & profession.
-{{< /paige/hero >}}
 
 <style>
   h2, ul {
@@ -62,7 +62,7 @@ Come check out my previous work on my gallery! There you will find collections.
 
 <h2> <strong> Booking </strong> </h2>
 
-If you're looking to book an appointment with me the best place to contact me will be on <a href="https://t.me/AyoubAb1">Telegram</a>, you can message me on my <a href="https://www.instagram.com/tampashutter/">Instagram</a> or <a href="/vcard/ayoubabedrabbo.vcf" target="_self" download="AyoubContactCard.vcf">download</a> my contact info & text/call me. View my business card <a href="/vcard">here.</a> 
+If you're looking to book an appointment with me the best place to contact me will be on <a href="https://t.me/AyoubAb1">Telegram</a>, you can message me on my <a href="https://www.instagram.com/tampashutter/">Instagram</a> or <a href="/vcard/ayoubabedrabbo.vcf" target="_self" download="AyoubContactCard.vcf">download</a> my contact info & text/call me. View my business card <a href="/vcard">here.</a>
 
 </div>
 
@@ -73,4 +73,3 @@ If you're looking to book an appointment with me the best place to contact me wi
     {{< paige/icon class="bi bi-tree" name="Linktree" url="https://linktr.ee/AyoubTheGreat" >}}
     {{< paige/icon class="bi bi-person-lines-fill" name="ContactCard" url="/vcard/ayoubabedrabbo.vcf" >}}
 </div>
-

@@ -10,8 +10,6 @@ Many blessings for the family, for Nora's patients, and all those who came!
 
 If you would like to download the photo, please click on it then hold on the photo to download in **full** quality!
 
-{{< paige/scrolltotop >}}
-
 {{< paige/gallery
      images="*.jpg"
      type="grid"
