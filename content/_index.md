@@ -82,7 +82,7 @@ Come check out all my albums on my gallery! There you will find collections.<br>
 <br>
 <h3><strong>Some of my favorite photos</strong></h3>
 
-{{< paige/gallery images="*.jpg" type="grid" height/>}}
+{{< paige/gallery images="*.jpg" type="grid" maxheight="12rem"/>}}
 
 </div>
 
