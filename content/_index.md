@@ -78,7 +78,12 @@ My name is Ayoub Abedrabbo. I am the creator of Tampa Shutter & I welcome you to
 
 <div style="text-align: center;"> 
 <h2><strong><a href="/gallery/">My Gallery</a></strong></h2>
-Come check out my previous work on my gallery! There you will find collections.
+Come check out all my albums on my gallery! There you will find collections.<br>
+<br>
+<h3><strong>Some of my favorite photos</strong></h3>
+
+{{< paige/gallery images="*.jpg" type="grid" height/>}}
+
 </div>
 
 <div style="text-align: center;">
