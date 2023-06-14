@@ -7,5 +7,3 @@ date: 2023-06-04T04:52:31.512Z
 {{< paige/scrolltotop >}}
 
 {{< paige/youtube autoplay=false video="AyaXjWqpoiA" >}}
-
-{{< paige/youtube autoplay=false video="cWvMwb3dr7M" >}}
