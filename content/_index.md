@@ -68,12 +68,12 @@ My name is Ayoub Abedrabbo. I am the creator of Tampa Shutter & I welcome you to
 </h2>
 
  <ul>
-  <li>Photographs for any occasion</li>
+  <li>Event Photography</li>
   <li>Video filming with post production</li>
   <dd>(Color grading & editing)</dd>
   <li>Live Streaming</li>
   <li>Music Videos</li>
-  <li>Real Estate Photography, drone and indoor</li>
+  <li>Real Estate Photography: Drone, Interior, & Exterior</li>
 </ul>
 
 <div style="text-align: center;"> 
@@ -90,8 +90,11 @@ Come check out all my albums on my gallery! There you will find collections.<br>
 
 <h2> <strong> Booking </strong> </h2>
 
-If you're looking to book an appointment with me the best place to contact me will be on <a href="https://t.me/AyoubAb1">Telegram</a> or you can message me on my <a href="https://www.instagram.com/tampashutter/">Instagram</a>.
-<br>View my business card <a href="/vcard">here.</a>
+Ready to secure your comfort? 
+<br>
+Book an appointment with me by contacting me on Telegram.
+
+<button class="my-button"><a href="t.me/AyoubAb1">Message on Telegram</a></button>
 
 </div>
 
