@@ -10,16 +10,10 @@ title: "Music Videos"
 
 {{< paige/youtube controls=true autoplay=false video="g2V-ygUPYG8" height="auto" width="auto"  >}}
 
-<a href="https://www.youtube.com/@pieshelpfuloven2864">Click me to go to my youtube channel</a>
+<a href="https://www.youtube.com/@pieshelpfuloven2864">Go to Youtube Channel</a>
 
 ## La Remy - All Barz
 
 {{< paige/youtube controls=true autoplay=false video="YBgHTt4e9-M" height="auto" width="auto"  >}}
 
-<a href="https://www.youtube.com/@pieshelpfuloven2864">Click me to go to my youtube channel</a>
-
-## LSKZAI - M2MO
-
-{{< paige/youtube controls=true autoplay=false video="YBgHTt4e9-M" height="auto" width="auto"  >}}
-
-<a href="https://www.youtube.com/watch?v=sYnsPMLnJDA&pp=ygUPcGllc2hlbHBmdWxvdmVu">Click me to go to my youtube channel</a>
+<a href="https://www.youtube.com/@pieshelpfuloven2864">Go to Youtube Channel</a>
