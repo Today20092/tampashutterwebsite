@@ -30,6 +30,10 @@ languages:
           name: 'Services'
           url: '/services/'
           weight: 50
+        # - identifier: 'Pricing'
+        #   name: 'Pricing'
+        #   url: '/pricing/'
+        #   weight: 60
       #- identifier: "shortcodes"
       #  name: "Shortcodes"
       #  url: "/shortcodes/"
