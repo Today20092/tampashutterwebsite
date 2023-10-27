@@ -81,7 +81,7 @@ outputs:
 paginate: 50
 params:
   authors:
-    will-faught:
+    ayoub:
       name: 'Ayoub Abedrabbo'
   paige:
     git:
