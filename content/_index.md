@@ -20,7 +20,7 @@ title: 'Tampa Shutter'
 <head>
 
 <meta name="Homepage" content="Ayoub Abedrabbo's photography, videography, music video, livestreaming, and video editing services based in Tampa, Florida.
-
+<a rel="me" href="https://mastodon.social/@ayoubabedrabbo">Mastodon</a>
 </head>
 
 {{< paige/hero
