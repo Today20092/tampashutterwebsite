@@ -1,5 +1,5 @@
 ---
-description: 'Photography, Videographer, Livestreaming service based in Tampa, Florida.'
+description: "Photography, Videographer, Livestreaming service based in Tampa, Florida."
 paige:
   style: |
     #paige-date,
@@ -14,13 +14,12 @@ paige:
     #paige-title {
         font-size: 5rem;
     }
-title: 'Tampa Shutter'
+title: "Tampa Shutter"
 ---
 
 <head>
-
-<meta name="Homepage" content="Ayoub Abedrabbo's photography, videography, music video, livestreaming, and video editing services based in Tampa, Florida.
-<a rel="me" href="https://mastodon.social/@ayoubabedrabbo">Mastodon</a>
+  <meta name="Homepage" content="Ayoub Abedrabbo's photography, videography, music video, livestreaming, and video editing services based in Tampa, Florida.
+  </meta>
 </head>
 
 {{< paige/hero
@@ -90,7 +89,7 @@ Come check out all my albums on my gallery! There you will find collections.<br>
 
 <h2> <strong> Booking </strong> </h2>
 
-Ready to secure your comfort? 
+Ready to secure your comfort?
 <br>
 Book an appointment with me by contacting me on Telegram.
 
@@ -107,3 +106,5 @@ Book an appointment with me by contacting me on Telegram.
     {{< paige/icon class="bi bi-tree" name="Linktree" url="https://linktr.ee/AyoubTheGreat" >}}
     {{< paige/icon class="bi bi-person-lines-fill" name="ContactCard" url="/vcard/ayoubabedrabbo.vcf" >}}
 </div>
+
+<a rel="me" href="https://mastodon.social/@ayoubabedrabbo">Mastodon</a>
