@@ -97,7 +97,7 @@ Book an appointment with me by contacting me on Telegram.
 
 </div>
 
-<button class="my-button"><a href="https://www.tampashutter.net/vcard/ayoubabedrabbo.vcf">Download my Contact Info 📒</a></button>
+<button class="my-button justify-content-center"><a href="https://www.tampashutter.net/vcard/ayoubabedrabbo.vcf">Download my Contact Info 📒</a></button>
 
 <div class="column-gap-3 d-flex display-6 justify-content-center mb-3">
     {{< paige/icon class="bi bi-envelope-fill" name="E-mail" url="mailto:Ayoub@Tampashutter.net" >}}
